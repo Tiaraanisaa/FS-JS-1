@@ -1,2 +1,2 @@
 # FS-JS-1
-latihan membuat repository
+kelas fullstack JS development
